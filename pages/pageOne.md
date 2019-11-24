@@ -1,6 +1,7 @@
 # Initial idea 
-	The goal of this project is to create a 3D Game using Unity for my final year project,
-	 which features other technologies integrated into the project.
+	The goal of this project is to create a 3D Game 
+	using Unity for my final year project,
+	which features other technologies integrated into the project.
 	
 # Game Concept
 The game will be a first person shooter (FPS) game that will be themed towards pirates in the 16th century. The game will feature crafting and leveling up system along with NPC characters and a dialog system. A database system will also store Players login information and progress in the game.
